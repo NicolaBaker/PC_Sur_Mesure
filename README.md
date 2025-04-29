@@ -1,4 +1,4 @@
-# uOttawa - 2024-2025 - SEG2505A - Projet - Groupe 33
+# uOttawa - 2024-2025 - Projet
 
 **Nom du projet** : Système de gestion de commandes de PC personnalisés
 
